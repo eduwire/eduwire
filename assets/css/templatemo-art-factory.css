@@ -1,36 +1,4 @@
-/*
 
-ART FACTORY
-
-https://templatemo.com/tm-537-art-factory
-
-*/
-
-/* 
----------------------------------------------
-Table of contents
----------------------------------------------
-01. font & reset css
-02. reset
-03. global styles
-04. header
-05. welcome
-06. features
-07. team
-08. pricing
-09. blog
-10. contact
-11. footer
-12. preloader
-
---------------------------------------------- 
-*/
-
-/* 
----------------------------------------------
-font & reset css
---------------------------------------------- 
-*/
 @import url("https://fonts.googleapis.com/css?family=Roboto:100,300,400,500,700,900");
 /* 
 ---------------------------------------------
@@ -173,8 +141,8 @@ ul {
 }
 
 p {
-  font-size: 15px;
-  line-height: 25px;
+  font-size: 12px;
+  line-height: 20px;
   color: #4a4a4a;
 }
 
@@ -295,7 +263,7 @@ header
 
 .background-header {
   background-color: #fff;
-  height: 80px !important;
+  height: 60px !important;
   position: fixed !important;
   top: 0px;
   left: 0px;
@@ -729,7 +697,7 @@ TRY IT ... with or without CENTER CENTER
 */
   background-size: cover;
   width: 100%;
-  height: 105vh;
+  height: 130vh;
   margin-top: -10vh;
 }
 
@@ -747,7 +715,7 @@ TRY IT ... with or without CENTER CENTER
 
 .welcome-area .header-text h1 {
   font-weight: 400;
-  font-size: 64px;
+  font-size: 50px;
   line-height: 80px;
   letter-spacing: 1.4px;
   margin-bottom: 30px;
